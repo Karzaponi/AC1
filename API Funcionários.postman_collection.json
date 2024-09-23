@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "bf27baea-7e50-4f59-8220-1b47acb1f1ff",
+		"name": "API Funcionários",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38519855"
+	},
+	"item": [
+		{
+			"name": "FuncionariosCargos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "CargosSemFuncionarios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DeletarFuncionario",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
